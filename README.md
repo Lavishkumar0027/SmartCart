@@ -1,7 +1,7 @@
 # SmartCart# 🛒 
 
 ***TEAM MEMBERS*** 
-***Lavish Kumar - 24SCSE1180184***
+***Lavish Kumar - 24SCSE1180184 |*** 
 ***Harsh Sharma - 24SCSE1180091***
 
 ## 📌 Features
